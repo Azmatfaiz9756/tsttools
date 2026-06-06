@@ -1,0 +1,6 @@
+{
+  "name": "TST-Tools",
+  "description": "An ecommerce store for professional mobile and electronics repair tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
